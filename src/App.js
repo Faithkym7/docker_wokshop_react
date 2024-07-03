@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Welcome to Moringa!
+          Welcome to Moringa DevOps, Group One Presentation!
         </p>
   
       </header>
